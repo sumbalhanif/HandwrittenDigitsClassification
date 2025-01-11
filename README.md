@@ -1,1 +1,2 @@
 # HandwrittenDigitsClassification
+I have classified handwritten digits using TensorFlow. I trained a neural network model that successfully achieved 0.99 accuracy on the training dataset and 0.97 accuracy on the test dataset. The model was able to classify the digits accurately. I used the MNIST dataset, which contains a total of 70,000 grayscale images, out of which 60,000 are for training and 10,000 are for testing.
